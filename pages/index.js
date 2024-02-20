@@ -43,7 +43,7 @@ export default function Home() {
                             </PageTitle>
                             <Content className="text-center" alignment="center">
                                 <p>
-                                    Baku! 3 Mayıs 2024'de Local Game Jam'e ev sahibi oluyor!
+                                    Baku! 3 Mayıs 2024&apos;de Local Game Jam&apos;e ev sahibi oluyor!
                                    <br/>Kendi dünyalarımıza yola çıkacağımız, hikaye dinleyip anlatacağımız, <br/>kültürel dokunuşlarla eşsiz bir tecrübe ve mücadele bizi bekliyor!
 
 

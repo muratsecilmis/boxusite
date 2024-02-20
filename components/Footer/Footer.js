@@ -6,7 +6,7 @@ import { Icon } from "@iconify/react";
 
 const DATA = [
     {
-        title: "Sponsorlar",
+        title: "Düzenleyiciler",
         items: [
             {
                 label: "Boxu",
@@ -15,6 +15,18 @@ const DATA = [
             {
                 label: "Gamepons",
                 href: "https://gamepons.com/"
+            }, 
+                {
+                label: "Azərbaycan Respublikası Mədəniyyət Nazirliyi",
+                href: "https://culture.gov.az/az"
+            },
+                {
+                label: "igda Azərbaycan",
+                href: "https://igda.org/chapters/azerbaijan-baku/"
+            },
+                {
+                label: "Yaradıcı",
+                href: ""
             }, 
         ]
     },
